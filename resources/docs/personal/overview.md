@@ -13,7 +13,7 @@ Your Personal Password Manager
 <a name="overview"></a>
 ## Overview
 
-**LaraPass v2** is a self-hosted personal password manager that allows you to store all of your important site login details and information into secure vaults on your own servers thereby guaranteeing highest level of security and discretion 😏. LaraPass v2 Personal Version is build using the amazing Laravel PHP Framework (v7.x) and the beautiful, responsive UI is powered by the Stisla Template (by *Muhamad Nauval Azhar*) using Bootstrap 4, along with powerful Livewire Components.
+**LaraPass v2** is a self-hosted personal password manager that allows you to store all of your important site login details and information into secure vaults on your own servers thereby guaranteeing highest level of security and discretion 😏. **LaraPass v2** is build using the amazing Laravel PHP Framework (v7.x) and the beautiful, responsive UI is powered by the Stisla Template (by *Muhamad Nauval Azhar*) using Bootstrap 4, along with powerful Livewire Components.
 
 ---
 
@@ -23,26 +23,27 @@ Your Personal Password Manager
 **LaraPass v2 Personal Version** comes with a plethora of features right out of the box.  
   
 **`For Users`**
-+ Two Factor Authentication System (using Google Authenticator) for increased Security.
++ Secure Vaults to store sites, notes, etc (Add extra layer of protection by password protecting individual vaults).
++ Store Site Login Info in Encrypted form along with custom fields.
++ Two Factor Authentication System (using the Authenticator App) for increased Security.
 + Get notified via Email whenever you log in from a new device.
-+ Secure Vault Storage - Store accounts securely in vault (fully encrypted using multi-level AES-256 bit encryption system).
 + Password Generator - Custom build Password Generator to generate strong, highly secured password strings with just one-click.
 + Beautiful and responsive layout for immersive user experience.
 + Easily copy account details with just one-click.
-+ Folders - Allows users to organize logins in separate folders to avoid any unnecessary confusion.
-+ Quick Notes - Add important notes on the dashboard itself.
-+ Accounts Exporter - Can decrypt and export all the accounts the user has added with one-click.
++ Folders - Allows you to organize site in separate folders to avoid any unnecessary confusion.
 + Receive Custom Emails for Verification, Welcome, Password Reset, New Device Login.  
   
 **`For Admins`**
 + LaraPass Installer included for simple few clicks installation experience.
-+ Overview - Get quick stats of the app performance.
-+ User Profiles - View, Change Email or Ban/Suspend Users.
-+ Ability to Verify Support PIN when comminicating with the User via Chat/Email, etc.
-+ Logs user's ip, user agent, login time, logout time and also sends email on successfuly login.
-+ Admins can make quick announcement that is displayed on the dashboard itself.
-+ Check for available updates for LaraPass with just one-click.
-+ Run Laravel Artisan Commands for Clearing Cache/View/Routes/Config/Compiled-Files with just one-click from within the admin dashboard.
++ Overview - Get quick stats of the app.
++ Announcements - Send app wide announcements to all users of the app.
++ Pages Manager - Manage custom static pages (currently only Terms & Privacy Pages available).
++ User Manager - View, Add, Update, Verify, Suspend, Ban or Delete Users.
++ Admin Manager - Manage General, Email, System & Automation Settings:
+    + **General Settings** - Manage App name, email, address, logo, favicon, language, footer, and theme settings among others.
+    + **Email Settings** - Manage output email services (smtp, mailgun api, etc).
+    + **System Settings** - Manage Maintenance Mode, default storage, Public/Private mode & database settings.
+    + **Automation Settings** - Manage Backups, Optimization & Automated Scheduled Tasks (thru cron jobs).
 
 ---
 
@@ -66,4 +67,4 @@ Your Personal Password Manager
 
 **LaraPass v2** **Docs** are designed to guide our users through the installation process and help inform them of all the amazing features that **LaraPass v2** offers in detail. If you think there is anything missing in the docs, or you could make it more readable and better understandable for others, then visit the github page below and start contributing. Any contribution would be much appreciated & fully credited.
 
-> {primary} **LaraPass v2 Docs Page** [**``https://github.com/Spargon/LaraPass-v2-Docs``**](https://github.com/Spargon/LaraPass-v2-Docs)
+> {primary} **LaraPass v2 Docs Page** [**``https://github.com/LaraPass/LaraPass-v2-Docs``**](https://github.com/LaraPass/LaraPass-v2-Docs)
