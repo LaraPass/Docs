@@ -3,3 +3,10 @@
     - [Introduction](/{{version}}/introduction)
     - [Changelog](/{{version}}/changelog)
     - [Basic Setup](/{{version}}/basic-setup)
+- ## Installation
+    - [Installation](/{{version}}/installation)
+- ## Miscellaneous
+    - [cPanel Installation](/{{version}}/cpanel)
+    - [Plesk Installation](/{{version}}/plesk)
+    - [Google reCaptcha](/{{version}}/recaptcha)
+    - [Mailgun Setup](/{{version}}/mailgun)
