@@ -2,3 +2,4 @@
     - [Overview](/{{version}}/overview)
     - [Introduction](/{{version}}/introduction)
     - [Changelog](/{{version}}/changelog)
+    - [Basic Setup](/{{version}}/basic-setup)
