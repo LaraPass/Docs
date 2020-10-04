@@ -5,6 +5,8 @@
     - [Basic Setup](/{{version}}/basic-setup)
 - ## Installation
     - [Installation](/{{version}}/installation)
+- ## Multi-Language
+    - [Translations](/{{version}}/translations)
 - ## Miscellaneous
     - [cPanel Installation](/{{version}}/cpanel)
     - [Plesk Installation](/{{version}}/plesk)
