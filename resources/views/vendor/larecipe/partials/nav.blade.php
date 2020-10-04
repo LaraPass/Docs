@@ -23,7 +23,7 @@
                 </larecipe-button>
             @endif
             <div class="hidden md:block">
-                <larecipe-button tag="a" href="https://github.com/larapass" data-toggle="tooltip" title="Our Github" target="__blank" type="white" class="mx-2 px-4">
+                <larecipe-button tag="a" href="https://github.com/larapass" data-toggle="tooltip" title="View on Github" target="__blank" type="white" class="mx-2 px-4">
                     <i class="fab fa-github"></i>
                 </larecipe-button>
                 @if($currentVersion == 'personal')
