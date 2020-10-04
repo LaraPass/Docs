@@ -9,6 +9,7 @@ LaraPass v2 is a self-hosted personal password manager.
 - [Other Versions](#other-versions)
 - [Support](#support)
 - [Customization](#customization)
+- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/introduction.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="introduction"></a>
 ## Introduction
