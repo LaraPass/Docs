@@ -13,7 +13,7 @@ Your Personal Password Manager
 <a name="overview"></a>
 ## Overview
 
-**LaraPass v2** is a self-hosted personal password manager that allows you to store all of your important site login details and information into secure vaults on your own servers thereby guaranteeing highest level of security and discretion 😏. **LaraPass v2** is build using the amazing Laravel PHP Framework (v7.x) and the beautiful, responsive UI is powered by the Stisla Template (by *Muhamad Nauval Azhar*) using Bootstrap 4, along with powerful Livewire Components.
+**LaraPass v2** is a self-hosted personal password manager that allows you to store all of your important site login details and information into secure vaults on your own servers thereby guaranteeing highest level of security and discretion 😏. **LaraPass v2** is build using the amazing Laravel PHP Framework (v8.x) and the beautiful, responsive UI is powered by the Stisla Template (by *Muhamad Nauval Azhar*) using Bootstrap 4, along with powerful Livewire Components.
 
 ---
 
