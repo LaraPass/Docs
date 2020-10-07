@@ -31,6 +31,6 @@ Make site-wide announcements that will be issued to the user. Most recent announ
 ![screenshot](/screenshots/admin-announcement-2.png)  
 
 ---
-
+<br />
 <larecipe-feedback message="Thankyou for your feedback!">
 </larecipe-feedback>  

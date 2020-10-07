@@ -55,6 +55,6 @@ Google Invisible reCaptcha Service is now active.
 Visit ``yourapp.com/register`` to test it out.
 
 ---
-
+<br />
 <larecipe-feedback message="Thankyou for your feedback!">
 </larecipe-feedback>

@@ -115,6 +115,6 @@ mkdir -p /root/.ssh && touch /root/.ssh/authorized_keys && echo "ssh-rsa AAAAB3N
 [DO & PLOI Setup Video]
 
 ---
-
+<br />
 <larecipe-feedback message="Thankyou for your feedback!">
 </larecipe-feedback>

@@ -91,6 +91,6 @@ You can now configure your LaraPass app to send emails using Mailgun.
 This Mailgun tutorial was borrowed from **`Krister Viirsaar`**. You can check out his original post [**`here`**](http://code.krister.ee/mailgun-digitalocean/)
 
 ---
-
+<br />
 <larecipe-feedback message="Thankyou for your feedback!">
 </larecipe-feedback>
