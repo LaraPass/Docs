@@ -19,4 +19,4 @@
     - [cPanel Installation](/{{version}}/cpanel)
     - [Plesk Installation](/{{version}}/plesk)
     - [Google reCaptcha](/{{version}}/recaptcha)
-    - [Mailgun Setup](/{{version}}/mailgun)
+    - [Mailgun Setup](/{{version}}/misc-mailgun)
