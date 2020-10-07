@@ -35,3 +35,8 @@ Quick overview list of all the registered users of your app.
 
 <a name="ban-user"></a>
 ## Ban / Un-Ban User
+
+---
+
+<larecipe-feedback message="Thankyou for your feedback!">
+</larecipe-feedback>

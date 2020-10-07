@@ -10,6 +10,7 @@
     "require": {
         "php": "^7.3",
         "binarytorch/larecipe": "^2.4",
+        "binarytorch/larecipe-feedback": "^1.0",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
@@ -58,23 +59,5 @@
         "post-create-project-cmd": [
             "@php artisan key:generate --ansi"
         ]
-    },
-    "repositories": [
-        {
-            "type": "path",
-            "url": "./larecipe-components/LarapassV2"
-        },
-        {
-            "type": "path",
-            "url": "./larecipe-components/LarapassV2"
-        },
-        {
-            "type": "path",
-            "url": "./larecipe-components/V2"
-        },
-        {
-            "type": "path",
-            "url": "./larecipe-components/Larapass"
-        }
-    ]
+    }
 }

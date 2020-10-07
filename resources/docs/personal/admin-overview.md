@@ -25,4 +25,9 @@ Get quick stats of your app such as `Total Users`, `Users Registered Today`, `To
 Make site-wide announcements that will be issued to the user. Most recent announcement will be shown on the user's dashboard page. Users' will be able to view all previous announcements as well.  
 <br/>
 ![screenshot](/screenshots/admin-announcement-1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![screenshot](/screenshots/admin-announcement-2.png)    
+![screenshot](/screenshots/admin-announcement-2.png)  
+
+---
+
+<larecipe-feedback message="Thankyou for your feedback!">
+</larecipe-feedback>  

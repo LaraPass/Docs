@@ -113,3 +113,8 @@ mkdir -p /root/.ssh && touch /root/.ssh/authorized_keys && echo "ssh-rsa AAAAB3N
 > {info} If you are unfamiliar with setting up a VPS server and deploying a site or don't have time for it, we can do complete setup and installation (via TeamViewer) for you at an extra charge. Contact **`support@larapass.net`** for more details and exact quote.
 
 [DO & PLOI Setup Video]
+
+---
+
+<larecipe-feedback message="Thankyou for your feedback!">
+</larecipe-feedback>
