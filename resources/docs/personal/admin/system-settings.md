@@ -48,7 +48,37 @@ If you somehow forget the secret url or are unable to access the site during the
 <a name="app-settings"></a>
 ## Application Settings
 
-Default app settings of Vaults.
+Set your app's default vault configuration/limitations here - 
++ Set the default membership name.
++ Set the no. of vaults each user can create.
++ Set the no. of folders each user can create.
++ Set the no. of sites each user can add.
++ Set the no. of notes each user can add.
++ Set whether the system should send users `email` notifications when they reach their account limits or not.
+
+<img src="/screenshots/admin/settings/system-app-1.png" width="500" alt="system-app-settings"/></a> 
+
+---
+
+<a name="social"></a>
+## Social Logins
+
+> {primary} Instructions on how to get the Client ID / Secret Key for Github, Facebook & Twitter are available [`here`](../misc/social-logins)
+
+Add the client id and secret key for social logins using OAuth here - 
+
++ Enable Github / Facebook / Twitter.
++ Add Client ID & Secret Key respectively.
++ Update Settings.
+
+<img src="/screenshots/admin/settings/system-social-1.png" width="700" alt="system-social-settings"/></a>   
+<br/>
+
++ Login page when all the social logins are enabled -
+
+<img src="/screenshots/admin/settings/system-social-2.png" width="700" alt="system-social-login"/></a> 
+
+> {warning} Social Logins are only available / visible to users when the app is set to **`PUBLIC`** mode.
 
 ---
 <br />
