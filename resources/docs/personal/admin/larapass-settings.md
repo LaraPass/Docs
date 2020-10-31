@@ -1,6 +1,6 @@
 # LaraPass Settings
 
-Admin LaraPass Settings page of `LaraPass v2 Personal Version`.
+Admin LaraPass Settings page of `LaraPass v2 Personal Version`
 
 ---
 

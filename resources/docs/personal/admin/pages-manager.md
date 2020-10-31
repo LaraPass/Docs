@@ -1,6 +1,6 @@
 # Pages Manager
 
-Overview of Admin Pages Manager build in `LaraPass v2 Personal Version`.
+Overview of Admin Pages Manager build in `LaraPass v2 Personal Version`
 
 ---
 

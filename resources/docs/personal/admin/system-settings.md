@@ -1,6 +1,6 @@
 # System Settings
 
-Admin System Settings page of `LaraPass v2 Personal Version`.
+Admin System Settings page of `LaraPass v2 Personal Version`
 
 ---
 

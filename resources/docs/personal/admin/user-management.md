@@ -1,6 +1,6 @@
 # User Management
 
-Overview of Admin User Management System build in `LaraPass v2 Personal Version`.
+Overview of Admin User Management System build in `LaraPass v2 Personal Version`
 
 ---
 
