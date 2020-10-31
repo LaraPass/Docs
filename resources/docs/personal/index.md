@@ -16,6 +16,7 @@
 - ## Multi-Language
     - [Translations](/{{version}}/translations)
 - ## Miscellaneous
+    - [Social Logins](/{{version}}/misc/social-logins)
     - [cPanel Installation](/{{version}}/misc/cpanel)
     - [Plesk Installation](/{{version}}/misc/plesk)
     - [Google reCaptcha](/{{version}}/misc/recaptcha)
