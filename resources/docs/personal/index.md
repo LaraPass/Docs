@@ -4,7 +4,7 @@
     - [Changelog](/{{version}}/changelog)
     - [Basic Setup](/{{version}}/basic-setup)
 - ## Installation
-    - [Installation](/{{version}}/installation)
+    - [Installation](/{{version}}/installation/overview)
 - ## Admin Features
     - [Overview](/{{version}}/admin/overview)
     - [User Management](/{{version}}/admin/user-management)
