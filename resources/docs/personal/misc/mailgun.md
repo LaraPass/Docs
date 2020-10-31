@@ -10,7 +10,7 @@ Setting Up Mailgun to work with your LaraPass installation
 - [Wait For DNS](#wait-dns)
 - [Ready to Use](#ready) 
 - [Credit](#credit)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/misc-mailgun.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/misc/mailgun.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="sign-up"></a>
 ## Sign Up
@@ -33,7 +33,7 @@ Follow the 4 Steps shown on the page to complete the setup. If you are finding d
 
 > {info} We are using **`mg.domain.com`** subdomain just to separate concerns. Its actually easier and more practical to just use your main **`domain.com`** instead.
 
-![screenshot](/screenshots/misc-mailgun-add-domain.gif)
+![screenshot](/screenshots/misc/mailgun/add-domain.gif)
 
 ---
 
@@ -42,12 +42,12 @@ Follow the 4 Steps shown on the page to complete the setup. If you are finding d
 
 Now Mailgun should have directed you to the DNS settings page. To find it manually, go to the Domains tab and select your domain. Here's a sample cropped image :
 
-![screenshot](/screenshots/misc-mailgun-add-dns.png)  
+![screenshot](/screenshots/misc/mailgun/add-dns.png)  
 &nbsp;
 ##### Log into DigitalOcean and select the Networking tab on the left.
 &nbsp;
 
-![screenshot](/screenshots/misc-mailgun-do.gif)
+![screenshot](/screenshots/misc/mailgun/do.gif)
 &nbsp;
 
 ##### * Select your **`mydomain.com`** (no need to create separate subdomain).  
@@ -55,13 +55,13 @@ Now Mailgun should have directed you to the DNS settings page. To find it manual
 ##### * Use the **`Add record`** button to add all the necessary information.  
 &nbsp; 
 
-![screenshot](/screenshots/misc-mailgun-record.gif)
+![screenshot](/screenshots/misc/mailgun/record.gif)
 
 &nbsp;  
 
 ##### Basically you need to convert the Mailgun provided data into this:
 
-![screenshot](/screenshots/misc-mailgun-converted.png)
+![screenshot](/screenshots/misc/mailgun/converted.png)
 
 ### **Things to notice when entering data**
 + the txt details may need to be in double quotes: **`v=spf...`**
@@ -82,6 +82,13 @@ Usually this takes about 24 hours. If you're in a hurry you're welcome to go ins
 ## Ready to Use
 
 You can now configure your LaraPass app to send emails using Mailgun.
+
+Open Email Settings at `https://yourdomain.com/admin/settings/email`
++ Select Mail Driver as SMTP if you want to use Mailgun SMTP Credentials.
++ Add the SMTP Credentails you got from Mailgun & Save.
++ or Select Mailgun API if you want to use Mailgun API.
++ Add the Mailgun API Key & Secret you got from Mailgun & Save.
++ Click on **Send Test Mail** to verify your mailer is setup properly.
 
 ---
 

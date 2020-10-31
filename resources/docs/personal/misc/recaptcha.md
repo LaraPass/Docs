@@ -8,7 +8,7 @@ Setting Up Google Invisible reCaptcha to work with your LaraPass App.
 - [Register Your Site](#register)
 - [Add Keys to App](#keys)
 - [Activate reCaptcha](#activate)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/misc-recaptcha.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/misc/recaptcha.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="signup"></a>
 ## Sign Up
@@ -25,17 +25,17 @@ Go to [**`www.google.com/recaptcha/admin`**](https://www.google.com/recaptcha/ad
 
 Once signed-up, you will be asked to register your site.
 
-![screenshot](/screenshots/misc-recaptcha-register.png)
+![screenshot](/screenshots/misc/recaptcha/register.png)
 
 Enter a Label/Name for the Key (for self-identification)
 
 Under reCAPTCHA Type - Select reCAPTCHA v2 & then Select Invisible reCAPTCHA Badge as shown below - 
 
-![screenshot](/screenshots/misc-recaptcha-v2.png)
+![screenshot](/screenshots/misc/recaptcha/v2.png)
 
 Add your domains & sub-domains. Add localhost if you to test larapass on your localhost system under "Domains"
 
-![screenshot](/screenshots/misc-recaptcha-domains.png)
+![screenshot](/screenshots/misc/recaptcha/domains.png)
 
 Accept Terms & Click on Submit.
 

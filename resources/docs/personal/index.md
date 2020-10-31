@@ -16,7 +16,7 @@
 - ## Multi-Language
     - [Translations](/{{version}}/translations)
 - ## Miscellaneous
-    - [cPanel Installation](/{{version}}/misc-cpanel)
-    - [Plesk Installation](/{{version}}/misc-plesk)
-    - [Google reCaptcha](/{{version}}/misc-recaptcha)
-    - [Mailgun Setup](/{{version}}/misc-mailgun)
+    - [cPanel Installation](/{{version}}/misc/cpanel)
+    - [Plesk Installation](/{{version}}/misc/plesk)
+    - [Google reCaptcha](/{{version}}/misc/recaptcha)
+    - [Mailgun Setup](/{{version}}/misc/mailgun)
