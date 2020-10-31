@@ -24,12 +24,10 @@ Get quick stats of your app such as `Total Users`, `Users Registered Today`, `To
 
 Make site-wide announcements that will be issued to the user. Most recent announcement will be shown on the user's dashboard page. Users' will be able to view all previous announcements as well.  
 
-* Adding new announcement -  
-![screenshot](/screenshots/admin/overview/announcement-1.png)
-
-* How the user views the announcement on their dashboard - 
-![screenshot](/screenshots/admin/overview/announcement-2.png)  
-
+<p>  
+    <img src="/screenshots/admin/overview/announcement-1.png" width="400" alt="announcement-1"/></a>
+    <img src="/screenshots/admin/overview/announcement-2.png" width="400" alt="announcement-2"/></a> 
+</p>
 ---
 <br />
 <larecipe-feedback message="Thankyou for your feedback!">
