@@ -30,20 +30,30 @@ If you would like to request Installation of **`LaraPass v2 Personal Version`** 
 [**`LaraPass v2 Personal Version`**](https://purchase.larapass.net/personal) is sold exclusively on CodeCanyon (an Envato Marketplace) and as such comes with 2 types of Licenses as defined by Envato - more details [**here**](https://codecanyon.net/licenses/standard)
 
 ***Regular License***
++ Self-Hosted.
++ Lifetime Updates.
++ Complete Source Code.
 + Single website (commercial, personal, or non-profit).
 + Single website for a client (commercial, personal, or non-profit).
 + Single intranet site project.
++ Quality checked by **envato**.
 + End-users cannot be charged.
 + 6-months basic support included.
 
 ***Extended License***
++ Self-Hosted.
++ Lifetime Updates.
++ Complete Source Code.
 + Single website (commercial, personal, or non-profit).
 + Single website for a client (commercial, personal, or non-profit).
 + Single intranet site project.
++ Quality checked by **envato**.
 + 6-months **`priority`** support.
 + Direct access to github repo (deploy directly from our master branch into your production site).
 + Access to new deploy or test out features before anyone else.
 + Ability to contribute to the project code with full credit.
++ Free installation service (1-time).
++ Free update service (2-times).
 
 > {danger} Items purchased under the **`Regular`** or **`Extended`** Licenses may NOT be redistributed or resold "as-is" or as part of any other collection of image resources or files.
 
@@ -76,7 +86,7 @@ If you would like to request Installation of **`LaraPass v2 Personal Version`** 
 
 You can purchase your desired license type from our Official Website [**here**](https://larapass.net).
 
-> {info} Regular Licenses (for all versions) comes with ``6 months`` standard free support and updates included. Extended Licenses  (for all versions) comes with ``6 months`` priority support & lifetime updates included. 
+> {info} Regular Licenses (for all versions) comes with ``6 months`` standard support and updates included. Extended Licenses  (for all versions) comes with ``6 months`` priority support & lifetime updates included. 
 
 ---
 
