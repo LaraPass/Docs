@@ -67,4 +67,4 @@ Your Personal Password Manager
 
 **LaraPass v2** **Docs** are designed to guide our users through the installation process and help inform them of all the amazing features that **LaraPass v2** offers in detail. If you think there is anything missing in the docs, or you could make it more readable and better understandable for others, then visit the github page below and start contributing. Any contribution would be much appreciated & fully credited.
 
-> {primary} **LaraPass v2 Docs Page** [**``https://github.com/LaraPass/Docs``**](https://github.com/LaraPass/Docs)
+> {primary} **LaraPass v2 Docs Repository** &nbsp; <a href="https://github.com/LaraPass/Docs" target="_blank">**`https://github.com/LaraPass/Docs`**</a>
