@@ -9,14 +9,14 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 ---
 
 - [v1.0.0](#1.0.0)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/changelog.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/changelog.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 
 <a name="1.0.0"></a>
-## Version **`1.0.0`** | 25-Oct-2020
+## Version **`1.0.0`** | 25-Nov-2020
 
 <larecipe-card>
-	<larecipe-badge type="success">Added</larecipe-badge> Initial release of LaraPass v2 Personal Version.<br/>
+	<larecipe-badge type="success">Added</larecipe-badge> Initial release of LaraPass v2 Personal Version on Codecanyon (an Envato Marketplace).<br/>
 </larecipe-card>
 
 ---
