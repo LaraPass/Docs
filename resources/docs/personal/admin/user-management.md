@@ -9,7 +9,7 @@ Overview of Admin User Management System build in `LaraPass v2 Personal Version`
 - [Change Email](#change-email)
 - [View IP Logs](#view-ip-logs)
 - [Ban User](#ban-user)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/admin/user-management.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/admin/user-management.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="overview"></a>
 ## Overview

@@ -8,7 +8,7 @@ Setting Up Google Invisible reCaptcha to work with your LaraPass App.
 - [Register Your Site](#register)
 - [Add Keys to App](#keys)
 - [Activate reCaptcha](#activate)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/misc/recaptcha.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/misc/recaptcha.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="signup"></a>
 ## Sign Up

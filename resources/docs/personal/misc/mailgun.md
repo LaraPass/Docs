@@ -10,7 +10,7 @@ Setting Up Mailgun to work with your LaraPass installation
 - [Wait For DNS](#wait-dns)
 - [Ready to Use](#ready) 
 - [Credit](#credit)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/misc/mailgun.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/misc/mailgun.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="sign-up"></a>
 ## Sign Up

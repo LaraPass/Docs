@@ -9,7 +9,7 @@ Guide to setup Social Logins using OAuth for your App.
 - [Github Login Setup](#github)
 - [Facebook Login Setup](#facebook)
 - [Twitter Login Setup](#twitter)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/misc/social-logins.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/misc/social-logins.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="overview"></a>
 ## Overview

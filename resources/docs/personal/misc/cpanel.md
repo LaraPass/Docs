@@ -9,7 +9,7 @@ LaraPass Installation Guide for cPanel powered Shared/VPS Hosting Servers.
 - [Uploading](#uploading)
 - [Setup Database](#setup_database)
 - [Installing](#installing)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/misc/cpanel.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/misc/cpanel.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="downloading"></a>
 ## Downloading

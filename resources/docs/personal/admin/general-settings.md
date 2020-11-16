@@ -9,7 +9,7 @@ Admin General Settings page of `LaraPass v2 Personal Version`
 - [Themes](#theme)
 - [Language / Locale](#locale)
 - [Footer Copyright](#copyright)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/admin/general-settings.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/admin/general-settings.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="overview"></a>
 ## Overview

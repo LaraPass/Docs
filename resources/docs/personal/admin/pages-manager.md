@@ -8,7 +8,7 @@ Overview of Admin Pages Manager build in `LaraPass v2 Personal Version`
 - [Add New Page](#add-page)
 - [Edit Page](#edit-pagel)
 - [Publish Page](#publish-page)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/admin/pages-manager.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/admin/pages-manager.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="overview"></a>
 ## Overview
