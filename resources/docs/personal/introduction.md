@@ -9,18 +9,18 @@ LaraPass v2 is a self-hosted personal password manager.
 - [Other Versions](#other-versions)
 - [Support](#support)
 - [Customization](#customization)
-- [<a href="https://github.com/larapass/LaraPass-v2-Docs/edit/master/resources/docs/personal/introduction.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+- [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/introduction.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="introduction"></a>
 ## Introduction
 
 > {primary} Thankyou for purchasing **LaraPass v2 Personal Version**
 
-This documentation will help you get familiar with **LaraPass v2**. Please don't forget to leave a **`5-star`** rating on codecanyon for **`LaraPass v2 Personal Version`**. If we didn't meet your expectations, please contact us before leaving a low rating and hopefully we can fix any issues you might have. Thankyou for your time and welcome to the family.
+This documentation will help you get familiar with **LaraPass v2**. Please don't forget to leave a **`5-star`** rating on codecanyon for [**`LaraPass v2 Personal Version`**](https://purchase.larapass.net/personal). If we didn't meet your expectations, please contact us before leaving a low rating and hopefully we can fix any issues you might have. Thankyou for your time and welcome to the family.
 
-> {warning} We provide **`Installation Services`** for an additional charge of **`$20`**. 
+> {warning} We provide **`Installation Services`** for an additional charge of **`$20`** per installation. 
 
-If you would like to request Installation of **`LaraPass v2 Personal Version`** on your sever, kindly open a support ticket at [**`support.larapass.net`**](https://support.larapass.net) 
+If you would like to request installation of **`LaraPass v2 Personal Version`** on your sever, kindly open a support ticket at [**`support.larapass.net`**](https://support.larapass.net) with the subject **Installation Order**.
 
 ---
 
@@ -50,8 +50,9 @@ If you would like to request Installation of **`LaraPass v2 Personal Version`** 
 + Quality checked by **envato**.
 + 6-months **`priority`** support.
 + Direct access to github repo (deploy directly from our master branch into your production site).
-+ Access to new deploy or test out features before anyone else.
++ Access to deploy or test out new features before anyone else.
 + Ability to contribute to the project code with full credit.
++ Any future released addon's included for free (or for 1-year if service based).
 + Free installation service (1-time).
 + Free update service (2-times).
 
@@ -70,14 +71,14 @@ If you would like to request Installation of **`LaraPass v2 Personal Version`** 
 + Can allow other users or friends/family members to register and use the app for free.
 + Public or Private Mode.
 
-***`Teams Version`***
+***`Teams Version`*** / ***`Coming Soon`***
 + For small organizations who wishes to store internal site login data and share it amongst team members.
 + Self-hosted to prevent any 3rd-party sniffing.
 + Personal Vaults as well as Team Vaults. 
 + Add members/admins to teams, manage permissions to view/edit/delete site logins, etc.
 + Public or Private Mode.
 
-***`SaaS Version`***
+***`SaaS Version`*** / ***`Coming Soon`***
 + For organizations or individuals that want to run a software-as-a-service (saas) bussiness.
 + All the features of the Personal & Teams version along with the ability charge end-users.
 + Integrated stripe subscription system.
