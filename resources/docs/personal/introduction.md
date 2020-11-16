@@ -16,18 +16,18 @@ LaraPass v2 is a self-hosted personal password manager.
 
 > {primary} Thankyou for purchasing **LaraPass v2 Personal Version**
 
-This documentation will help you get familiar with **LaraPass v2**. Please don't forget to leave a **`5-star`** rating on codecanyon for [**`LaraPass v2 Personal Version`**](https://purchase.larapass.net/personal). If we didn't meet your expectations, please contact us before leaving a low rating and hopefully we can fix any issues you might have. Thankyou for your time and welcome to the family.
+This documentation will help you get familiar with **LaraPass v2**. Please don't forget to leave a **`5-star`** rating on codecanyon for <a href="https://purchase.larapass.net/personal" target="_blank">**`LaraPass v2 Personal Version.`**</a> If we didn't meet your expectations, please contact us before leaving a low rating and hopefully we can fix any issues you might have. Thankyou for your time and welcome to the family.
 
 > {warning} We provide **`Installation Services`** for an additional charge of **`$20`** per installation. 
 
-If you would like to request installation of **`LaraPass v2 Personal Version`** on your sever, kindly open a support ticket at [**`support.larapass.net`**](https://support.larapass.net) with the subject **Installation Order**.
+If you would like to request installation of **`LaraPass v2 Personal Version`** on your sever, kindly open a support ticket at <a href="https://support.larapass.net" target="_blank">**`support.larapass.net`**</a> with the subject **Installation Order**.
 
----
+---<a href="#" target="_blank">#</a>
 
 <a name="licenses"></a>
 ## Licenses
 
-[**`LaraPass v2 Personal Version`**](https://purchase.larapass.net/personal) is sold exclusively on CodeCanyon (an Envato Marketplace) and as such comes with 2 types of Licenses as defined by Envato - more details [**here**](https://codecanyon.net/licenses/standard)
+<a href="https://purchase.larapass.net/personal" target="_blank">**`LaraPass v2 Personal Version`**</a> is sold exclusively on CodeCanyon (an Envato Marketplace) and as such comes with 2 types of Licenses as defined by Envato - more details [**here**](https://codecanyon.net/licenses/standard)
 
 ***Regular License***
 + Self-Hosted.
@@ -94,7 +94,7 @@ You can purchase your desired license type from our Official Website [**here**](
 <a name="support"></a>
 ## Support
 
- If you have any questions that are beyond the scope of this help file, please feel free to open a support ticket at [**`support.larapass.net`**](https://support.larapass.net) and we would be more than happy to help.
+ If you have any questions that are beyond the scope of this help file, please feel free to open a support ticket at <a href="https://support.larapass.net" target="_blank">**`support.larapass.net`**</a> and we would be more than happy to help.
 
  ---
 
