@@ -7,6 +7,7 @@ Detailed Installation Guide for `LaraPass v2 Personal Version`.
 - [Downloading](#downloading)
 - [Uploading](#uploading)
 - [Installing](#installing)
+- [Installation Demo Video](#installation-demo)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/installation/overview.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="downloading"></a>
@@ -94,4 +95,17 @@ This completes your **`LaraPass v2 Personal Version`** Installation process. In 
 
 ---
 
-[LaraPass Installation Video]
+<a name="installation-demo"></a>
+## Installation Demo Video
+
+You can watch and follow through our demo installation video on youtube for a quick look at how easy & simple it is to install LaraPass v2 on your server.  
+<br>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&" target="_blank">
+    <img src="http://img.youtube.com/vi/xxx/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+</a>
+
+---
+<br />
+<larecipe-feedback message="Thankyou for your feedback!">
+</larecipe-feedback>
