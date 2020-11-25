@@ -13,6 +13,7 @@
     - [Email Settings](/{{version}}/admin/email-settings)
     - [System Settings](/{{version}}/admin/system-settings)
     - [Automation Settings](/{{version}}/admin/automation-settings)
+    - [Modules Manager](/{{version}}/admin/modules-manager)
 - ## Multi-Language
     - [Translations](/{{version}}/translations)
 - ## Miscellaneous

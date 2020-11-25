@@ -27,15 +27,15 @@
                     <i class="fab fa-github"></i>
                 </larecipe-button>
                 @if($currentVersion == 'personal')
-                <larecipe-button tag="a" href="https://purchase.larapass.net/personal" data-toggle="tooltip" title="Purchase Personal Version" target="__blank" type="danger" class="mx-2 px-4">
+                <larecipe-button tag="a" href="https://larapass.net/versions/personal#pricing" data-toggle="tooltip" title="Purchase Personal Version" target="__blank" type="danger" class="mx-2 px-4">
                     <i class="fas fa-shopping-cart"></i>
                 </larecipe-button>
                 @elseif($currentVersion == 'teams')
-                <larecipe-button tag="a" href="https://purchase.larapass.net/teams" data-toggle="tooltip" title="Purchase Teams Version" target="__blank" type="danger" class="mx-2 px-4">
+                <larecipe-button tag="a" href="https://larapass.net/versions/teams#pricing" data-toggle="tooltip" title="Purchase Teams Version" target="__blank" type="danger" class="mx-2 px-4">
                     <i class="fas fa-shopping-cart"></i>
                 </larecipe-button>
                 @elseif($currentVersion == 'saas')
-                <larecipe-button tag="a" href="https://purchase.larapass.net/saas" data-toggle="tooltip" title="Purchase SaaS Version" target="__blank" type="danger" class="mx-2 px-4">
+                <larecipe-button tag="a" href="https://larapass.net/versions/saas#pricing" data-toggle="tooltip" title="Purchase SaaS Version" target="__blank" type="danger" class="mx-2 px-4">
                     <i class="fas fa-shopping-cart"></i>
                 </larecipe-button>
                 @endif
