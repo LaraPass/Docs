@@ -1,1 +1,1 @@
-<img height="35px" width="160px" src="{{ asset('logo.svg') }}" alt="LaraPass-v2-Logo" >
+<img height="35px" width="160px" src="{{ asset('logo-dark.png') }}" alt="LaraPass-v2-Logo" >
