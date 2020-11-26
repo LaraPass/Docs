@@ -5,6 +5,7 @@
     - [Basic Setup](/{{version}}/basic-setup)
 - ## Installation
     - [Installation](/{{version}}/installation/overview)
+    - [After Installing](/{{version}}/installation/after-installing)
 - ## Admin Features
     - [Overview](/{{version}}/admin/overview)
     - [User Management](/{{version}}/admin/user-management)
