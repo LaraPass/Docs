@@ -16,7 +16,7 @@
     - [Automation Settings](/{{version}}/admin/automation-settings)
     - [Modules Manager](/{{version}}/admin/modules-manager)
 - ## Multi-Language
-    - [Translations](/{{version}}/translations)
+    - [Translations](https://github.com/LaraPass/Translations)
 - ## Miscellaneous
     - [Social Logins](/{{version}}/misc/social-logins)
     - [cPanel Installation](/{{version}}/misc/cpanel)
