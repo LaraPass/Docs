@@ -13,10 +13,10 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 
 
 <a name="1.0.0"></a>
-## Version **`1.0.0`** | 25-Nov-2020
+## Version **`1.0.0`** | 06-Dec-2020
 
 <larecipe-card>
-	<larecipe-badge type="success">Added</larecipe-badge> Initial release of LaraPass v2 Personal Version on Codecanyon (an Envato Marketplace).<br/>
+	<larecipe-badge type="success">Added</larecipe-badge> Initial release of LaraPass v2 Personal Version available for pre-order on www.larapass.net<br/>
 </larecipe-card>
 
 ---

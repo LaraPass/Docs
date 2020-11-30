@@ -22,7 +22,7 @@ This documentation will help you get familiar with **LaraPass v2**. Please don't
 
 If you would like to request installation of **`LaraPass v2 Personal Version`** on your sever, kindly open a support ticket at <a href="https://support.larapass.net" target="_blank">**`support.larapass.net`**</a> with the subject **Installation Order**.
 
----<a href="#" target="_blank">#</a>
+---
 
 <a name="licenses"></a>
 ## Licenses
