@@ -56,6 +56,7 @@ Your Personal Password Manager
 + **`Muhamad Nauval Azhar`** - Thanks for the Stisla Template.
 + **`Bootstrap 4`** - Open source front end framework.
 + **`Livewire`** - A full-stack framework for Laravel by Caleb Porzio.
++ **`spargon/laravel-auth-logger`** - Sends notifications when logging-in on new system/location.
 + **`techtailor/rpg`** - Random Password Generator & Encrypter for Laravel.
 + **`pragmarx/google2fa`** - Google TwoFactor Authentication Library.
 + **`maatwebsite/excel`** - Supercharged Excel exports and imports in Laravel.
