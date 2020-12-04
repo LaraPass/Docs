@@ -101,8 +101,8 @@ This completes your **`LaraPass v2 Personal Version`** Installation process. In 
 You can watch and follow through our demo installation video on youtube for a quick look at how easy & simple it is to install LaraPass v2 on your server.  
 <br>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&" target="_blank">
-    <img src="http://img.youtube.com/vi/xxx/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+<a href="https://youtu.be/5xmODkcd7Ug" target="_blank">
+    <img src="/screenshots/installation/installation-demo.jpg" alt="Installation-Demo-Video" width="240" height="180" border="10" />
 </a>
 
 ---
