@@ -30,6 +30,7 @@ NGINX or Apache
 MySQL or MariaDB
 SSH Access (Recommended)
 ```
+> {success} You can download the LaraPass v2 Compatibility Tester from [`here`](https://github.com/LaraPass/CompatibilityTester) and confirm whether your server supports it or not.
 
 ---
 
