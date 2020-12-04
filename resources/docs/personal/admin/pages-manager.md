@@ -36,10 +36,14 @@ Click on **Add New Page** to get started.
 <a name="edit-page"></a>
 ## Edit Page
 
+To `Edit` an existing page, just click on the **Edit** button under the page title and you will be able to modify the content of the page as desired. You can also permanantly `delete` a page by clicking on the **Delete** button under the page title.
+
 ---
 
 <a name="publish-page"></a>
 ## Publish Page
+
+If you are not yet ready to publish a page (still writing content of it), then you can set the status of your page to **`Draft`**. Pages in draft status will only be visible to admins, regular users or visitors will get a 404-page not found error on accessing it. Once you are satisfied with the content, you can change the status to **`Published`** by editing the page. Once published, the page will be visible to all.
 
 ---
 <br />
