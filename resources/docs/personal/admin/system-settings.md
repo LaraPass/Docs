@@ -39,7 +39,12 @@ Once the maintenance mode is active, you can access the app using the **`secret`
 
 If you somehow forget the secret url or are unable to access the site during the maintenance period, you can manually disable the **`maintenance mode`** in 2 ways -
  + If you have access to **console**, navigate to the larapass directory and run the command **`php artisan up`**
- + If you do not have access to **console**, open the `larapass/storage/framework` directory and delete the file titled **`down`**
+ + If you do not have access to **console**, open the `larapass/storage/framework` directory and delete the file titled **`down`**  
+
+###  You can checkout our demo video of our build-in maintenance mode in action below: 
+<a href="https://youtu.be/shjxnSlqA8c" target="_blank">
+    <img src="/screenshots/installation/maintenance-demo.jpg" alt="Installation-Demo-Video" width="240" height="180" border="10" />
+</a>
 
 ---
 
