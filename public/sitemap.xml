@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.larapass.net/personal/overview</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/introduction</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/changelog</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/basic-setup</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/installation/overview</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/installation/after-installing</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/admin/overview</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/admin/user-management</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/admin/pages-manager</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/admin/general-settings</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/admin/email-settings</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/admin/system-settings</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/admin/automation-settings</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/admin/modules-manager</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/misc/social-logins</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/misc/cpanel</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/misc/plesk</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/misc/recaptcha</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.larapass.net/personal/misc/mailgun</loc>
+  <lastmod>2020-12-05T18:44:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
