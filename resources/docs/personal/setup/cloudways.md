@@ -85,7 +85,7 @@ Follow the instructions on the Installation page [**here.**](../installation/ove
 Watch the demo of us setting up our cloudways account server.
 <br>
 
-<a href="#" target="_blank">
+<a href="https://youtu.be/iz6zqW67_eY" target="_blank">
     <img src="/screenshots/setup/cloudways/setup-demo.jpg" alt="Installation-Demo-Video" width="240" height="180" border="10" />
 </a>
 
