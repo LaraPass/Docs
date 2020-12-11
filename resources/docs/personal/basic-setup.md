@@ -60,7 +60,7 @@ If you are still interested in using the cheaper Shared Hosting services, then w
 
 [![img](https://affiliates.a2hosting.com/accounts/default1/banners/b33b2977.png)](https://www.a2hosting.com?aid=larapass&amp;bid=b33b2977)
 
-> {success} Visit the [``cPanel Installation Guide Page``](misc/cpanel) for details on how to successfully install **LaraPass v2** on cPanel powered server.
+> {success} Visit the [``cPanel Installation Guide Page``](setup/cpanel) for details on how to successfully install **LaraPass v2** on cPanel powered server.
 
 ---
 
