@@ -5,16 +5,15 @@ Basic Setup required for installing `LaraPass v2 Personal Version` on your serve
 ---
 
 - [Requirements](#requirements)
-- [Setup](#setup)
-- [VPS Server](#vps)
-- [VPS Manager](#manager)
+- [Hosting & Host Manager](#hosting)
+- [Digital Ocean Setup](#do)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/basic-setup.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="requirements"></a>
 ## Requirements
 
 ```php
-PHP >= 7.3
+PHP >= 7.4
 Following PHP Extensions:
  - BCMath
  - Ctype
@@ -34,8 +33,8 @@ SSH Access (Recommended)
 
 ---
 
-<a name="setup"></a>
-## Setup
+<a name="hosting"></a>
+## Hosting & Host Manager
 
 > {primary} **LaraPass** works best on a `VPS` with SSH Access. 
 
@@ -65,8 +64,8 @@ If you are still interested in using the cheaper Shared Hosting services, then w
 
 ---
 
-<a name="vps"></a>
-## VPS Server
+<a name="do"></a>
+## Digital Ocean Setup
 
  Setting up a VPS server provided by <a href="https://refs.spargon.tech/digital-ocean" target="_blank">**`Digital Ocean`**</a> or any other from the above list is very simple and straight forward. These steps are general and are not specific to **LaraPass**. If you already know how to provision a DO server, then just skip this section. If you are using <a href="https://refs.spargon.tech/cloudways" target="_blank">**`Cloudways`**</a>, then you don't need to register at DO, they will handle everything (albeit at an extra premium).
 
@@ -89,31 +88,6 @@ If you are still interested in using the cheaper Shared Hosting services, then w
  Will direct to : your-server-ip-address
  TTL : 1800
  ```
-
----
-
-<a name="manager"></a>
-## VPS Manager
-
-A VPS always comes as a barebones pc, as such in order to run web applications or websites on them we need to use a VPS Manager. For **LaraPass** we will be going with [**Ploi**](https://ploi.io/register?referrer=GTVyGH2vz2N3tN84XxW7) because unlike others, it comes with a Free Option (along with Free SSL) which allows you to manage your LaraPass site for **`Free`**. For more details visit [**Ploi.io**](https://ploi.io/register?referrer=GTVyGH2vz2N3tN84XxW7). These steps are general and not specific to **LaraPass**. If you already know how to link your VPS with a Manager, then just skip this section.
-
-**Step # 1 -** Go to <a href="https://refs.spargon.tech/ploi" target="_blank">**`Ploi`**</a> & Sign Up.  
-**Step # 2 -** Click on **`Create Server`**.  
-**Step # 3 -** Click on **`Custom VPS`** under Select Provider.  
-**Step # 4 -** Copy the **`Command`** shown under `"You can also use this one-liner to add the authorized key:"`, its something like this - (do not copy the command below, its just a dummy one)
-
-```php
-mkdir -p /root/.ssh && touch /root/.ssh/authorized_keys && echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6BBCdgfd/8FblBAwAuZYFQti4xOub2BxlMMwjMajI+JM91bD81B6xBA19gBTrc194SuoD1L/T7tna66XQsBUchC2YBF/akdwyyduSBJh/yK98JCMNZyNcE0qZ/g9MhCfkYI3ZkFLOeoTYsDEUpkzNKePu9r6egBSFQj0TGNAKyZ3wohnM469CoCS0Jh6kbOOa+kp7OLr0jXRY5l7f8MCEjPcVldkYFhXhxIFQ6GZnGdnayqnlBVRpN4/4q1X+HTsMOWKcTtJembJ8wThaKnAUhsZjNOitD9edhsDu+K9JeZU8egnP8tz28i+8pFcuPykoeqUJOCgMCiuHuvMhu2iL ploi-worker" >> /root/.ssh/authorized_keys
-```
-**Step # 5 -** Login to your VPS Server as **`root`** using **`Bitvise SSH Client`** or **`CyberDuck`** or directly from Digital Ocean Server Panel.  
-**Step # 6 -** **`Paste`** the **`Command`** you copied in **Step # 4**.  
-**Step # 7 -** Come back to **`Ploi`**, enter your `Server Name`, `IP Address`, `Select OS`, `PHP Version as 7.3`, `MySQL Version as 5.7` and click on **`Create Server`** and wait for it to provision.  
-**Step # 8 -** Once done, head over to your server on ploi, click on add sites, add your domain name and in the directory add /public (since its a laravel installation).  
-**Step # 9 -** All done. Visit the Installation Page to get started with installing LaraPass on your server.
-
-> {info} If you are unfamiliar with setting up a VPS server and deploying a site or don't have time for it, we can do complete setup and installation (via TeamViewer) for you at an extra charge. Contact <a href="mailto:support@larapass.net" target="_blank">**`support@larapass.net`**</a> for more details and exact quote.
-
-[DO & PLOI Setup Video]
 
 ---
 <br />

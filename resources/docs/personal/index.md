@@ -3,6 +3,8 @@
     - [Introduction](/{{version}}/introduction)
     - [Changelog](/{{version}}/changelog)
     - [Basic Setup](/{{version}}/basic-setup)
+- ## Setup
+    - [Cloudways](/{{version}}/setup/cloudways)
 - ## Installation
     - [Installation](/{{version}}/installation/overview)
     - [After Installing](/{{version}}/installation/after-installing)
