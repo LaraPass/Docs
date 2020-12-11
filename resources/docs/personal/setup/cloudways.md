@@ -75,7 +75,11 @@ Upload LaraPass v2 files to your cloudways server.
 ## Watch Demo Video
 
 Watch the demo of us setting up our cloudways account server.
+<br>
 
+<a href="https://youtu.be/5xmODkcd7Ug" target="_blank">
+    <img src="/screenshots/setup/cloudways/setup-demo.jpg" alt="Installation-Demo-Video" width="240" height="180" border="10" />
+</a>
 
 ---
 <br />

@@ -14,7 +14,7 @@ Basic Setup required for installing `LaraPass v2 Personal Version` on your serve
 ## Requirements
 
 ```php
-PHP >= 7.3
+PHP >= 7.4
 Following PHP Extensions:
  - BCMath
  - Ctype
