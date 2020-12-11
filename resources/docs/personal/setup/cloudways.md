@@ -8,6 +8,7 @@ LaraPass v2 Setup Guide for Cloudways.
 - [Deploy](#deploy)
 - [Setup](#setup)
 - [Upload](#upload)
+- [Installing](#installing)
 - [Watch Demo Video](#video)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/setup/cloudways.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
@@ -68,6 +69,13 @@ Upload LaraPass v2 files to your cloudways server.
 + Lastly, don't forget to copy your MYSQL Database Username and Password from the **Access Details** page.
 
 > {info} You can follow the installation instructions and installation demo video [`here`](../installation/overview#installing)
+
+---
+
+<a name="installing"></a>
+## Installing LaraPass
+
+Follow the instructions on the Installation page [**here.**](../installation/overview#installing)
 
 ---
 

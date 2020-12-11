@@ -5,6 +5,7 @@
     - [Basic Setup](/{{version}}/basic-setup)
 - ## Setup
     - [Cloudways](/{{version}}/setup/cloudways)
+    - [cPanel Host](/{{version}}/setup/cpanel)
 - ## Installation
     - [Installation](/{{version}}/installation/overview)
     - [After Installing](/{{version}}/installation/after-installing)
@@ -21,7 +22,5 @@
     - [Translations](https://github.com/LaraPass/Translations)
 - ## Miscellaneous
     - [Social Logins](/{{version}}/misc/social-logins)
-    - [cPanel Installation](/{{version}}/misc/cpanel)
-    - [Plesk Installation](/{{version}}/misc/plesk)
     - [Google reCaptcha](/{{version}}/misc/recaptcha)
     - [Mailgun Setup](/{{version}}/misc/mailgun)
