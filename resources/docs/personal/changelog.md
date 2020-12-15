@@ -8,9 +8,22 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 
 ---
 
+- [v1.0.1](#1.0.1)
 - [v1.0.0](#1.0.0)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/changelog.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
+<a name="1.0.1"></a>
+## Version **`1.0.1`** | 15-Dec-2020
+
+<larecipe-card>
+	<larecipe-badge type="success">Added</larecipe-badge> Additional config options to the Two Factor Auth Module.<br/><br/>  
+	<larecipe-badge type="success">Added</larecipe-badge> Multi-Lang support for the Auth Logger.<br/><br/> 
+	<larecipe-badge type="warning">Updated</larecipe-badge> Site search functionality. Made it more cleaner and robust.<br/><br/>
+	<larecipe-badge type="warning">Updated</larecipe-badge> Vendor Packages.<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> A typo in the database migration rollback file.
+</larecipe-card>
+
+---
 
 <a name="1.0.0"></a>
 ## Version **`1.0.0`** | 06-Dec-2020
