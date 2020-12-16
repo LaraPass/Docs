@@ -20,6 +20,7 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 	<larecipe-badge type="success">Added</larecipe-badge> Multi-Lang support for the Auth Logger.<br/><br/> 
 	<larecipe-badge type="warning">Updated</larecipe-badge> Site search functionality. Made it more cleaner and robust.<br/><br/>
 	<larecipe-badge type="warning">Updated</larecipe-badge> Vendor Packages.<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> Minor bug with the summernote plugin.<br/><br/>
 	<larecipe-badge type="danger">Fixed</larecipe-badge> A typo in the database migration rollback file.
 </larecipe-card>
 
