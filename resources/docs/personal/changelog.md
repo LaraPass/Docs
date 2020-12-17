@@ -8,9 +8,20 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 
 ---
 
+- [v1.0.2](#1.0.2)
 - [v1.0.1](#1.0.1)
 - [v1.0.0](#1.0.0)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/changelog.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+
+<a name="1.0.2"></a>
+## Version **`1.0.2`** | 17-Dec-2020
+
+<larecipe-card>
+	<larecipe-badge type="warning">Updated</larecipe-badge> Stats Widgets<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> Notes count in stats.<br/><br/>
+</larecipe-card>
+
+---
 
 <a name="1.0.1"></a>
 ## Version **`1.0.1`** | 15-Dec-2020
