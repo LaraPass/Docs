@@ -18,7 +18,8 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 
 <larecipe-card>
 	<larecipe-badge type="warning">Updated</larecipe-badge> Stats Widgets<br/><br/>
-	<larecipe-badge type="danger">Fixed</larecipe-badge> Notes count in stats.
+	<larecipe-badge type="danger">Fixed</larecipe-badge> Notes count in stats.<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> GDPR Download.
 </larecipe-card>
 
 ---
