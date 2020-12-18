@@ -3,6 +3,7 @@
     - [Introduction](/{{version}}/introduction)
     - [Changelog](/{{version}}/changelog)
     - [Basic Setup](/{{version}}/basic-setup)
+    - [Demo Videos](/{{version}}/demo-videos)
 - ## Setup
     - [Cloudways](/{{version}}/setup/cloudways)
     - [cPanel Host](/{{version}}/setup/cpanel)
@@ -17,6 +18,7 @@
     - [Email Settings](/{{version}}/admin/email-settings)
     - [System Settings](/{{version}}/admin/system-settings)
     - [Automation Settings](/{{version}}/admin/automation-settings)
+    - [LaraPass Settings](/{{version}}/admin/larapass-settings)
     - [Modules Manager](/{{version}}/admin/modules-manager)
 - ## Multi-Language
     - [Translations](https://github.com/LaraPass/Translations)
