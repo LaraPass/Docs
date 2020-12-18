@@ -44,6 +44,9 @@ All Installation Demos (and releated) for LaraPass v2.
 All Settings Demos for LaraPass v2.
 
 <p>
+<a href="https://youtu.be/shjxnSlqA8c" target="_blank">
+    <img src="/screenshots/installation/maintenance-demo.jpg" alt="Installation-Demo-Video" width="240" height="180" border="10" />
+</a>
 <a href="https://youtu.be/4-N7wD078BM" target="_blank">
     <img src="/screenshots/admin/larapass/auto-updater-demo.jpg" alt="Auto-Updater-Demo-Video" width="240" height="180" border="10" />
 </a>
