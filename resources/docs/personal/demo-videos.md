@@ -20,9 +20,9 @@ All Setup Demos for LaraPass v2 using different service providers.
 <a href="https://youtu.be/iz6zqW67_eY" target="_blank">
     <img src="/screenshots/setup/cloudways/setup-demo.jpg" alt="Installation-Demo-Video" width="240" height="180" border="10" />
 </a>
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
     <img src="/screenshots/setup/cpanel/setup-demo.jpg" alt="Installation-Demo-Video" width="240" height="180" border="10" />
-</a>
+</a> -->
 </p>
 
 ---
