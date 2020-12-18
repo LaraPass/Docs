@@ -53,7 +53,7 @@ Click on **`Start Update`** to initiate the update process. Once the update is c
 Watch the demo of how easy it is to update a LaraPass v2 app to the latest version using the in-build auto-updater
 <br>
 
-<a href="#" target="_blank">
+<a href="https://youtu.be/4-N7wD078BM" target="_blank">
     <img src="/screenshots/admin/larapass/auto-updater-demo.jpg" alt="Auto-Updater-Demo-Video" width="240" height="180" border="10" />
 </a>
 
