@@ -8,16 +8,30 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 
 ---
 
+- [v1.0.3](#1.0.3)
 - [v1.0.2](#1.0.2)
 - [v1.0.1](#1.0.1)
 - [v1.0.0](#1.0.0)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/changelog.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
+<a name="1.0.3"></a>
+## Version **`1.0.3`** | 22-Dec-2020
+
+<larecipe-card>
+	<larecipe-badge type="success">Added</larecipe-badge> HTML Purifier (to filter HTML inputs).<br/><br/>
+	<larecipe-badge type="warning">Updated</larecipe-badge> jQuery to the latest version.<br/><br/>
+	<larecipe-badge type="warning">Updated</larecipe-badge> CDN Assets and moved them to the local directory.<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> Minor typos.<br/><br/>
+	<larecipe-badge type="danger">Removed</larecipe-badge> Inline CSS.
+</larecipe-card>
+
+---
+
 <a name="1.0.2"></a>
 ## Version **`1.0.2`** | 17-Dec-2020
 
 <larecipe-card>
-	<larecipe-badge type="warning">Updated</larecipe-badge> Stats Widgets<br/><br/>
+	<larecipe-badge type="warning">Updated</larecipe-badge> Stats Widgets.<br/><br/>
 	<larecipe-badge type="danger">Fixed</larecipe-badge> Notes count in stats.<br/><br/>
 	<larecipe-badge type="danger">Fixed</larecipe-badge> GDPR Download.
 </larecipe-card>
