@@ -8,7 +8,7 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 
 ---
 
-- [v1.1.0](#1.103)
+- [v1.1.0](#1.1.0)
 - [v1.0.3](#1.0.3)
 - [v1.0.2](#1.0.2)
 - [v1.0.1](#1.0.1)
