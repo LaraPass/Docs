@@ -8,11 +8,35 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 
 ---
 
+- [v1.1.0](#1.103)
 - [v1.0.3](#1.0.3)
 - [v1.0.2](#1.0.2)
 - [v1.0.1](#1.0.1)
 - [v1.0.0](#1.0.0)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/changelog.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+
+<a name="1.1.0"></a>
+## Version **`1.1.0`** | 26-Dec-2020
+
+<larecipe-card>
+	<larecipe-badge type="success">Added</larecipe-badge> Favicons to Sites.<br/><br/>
+	<larecipe-badge type="success">Added</larecipe-badge> TFAPage Seeder.<br/><br/>
+	<larecipe-badge type="success">Added</larecipe-badge> Installer now ships with pre-filled Privacy & Terms Pages.<br/><br/>
+	<larecipe-badge type="success">Added</larecipe-badge> Reserved Slugs. Made Edit Page more responsive.<br/><br/>
+	<larecipe-badge type="success">Added</larecipe-badge> Notifications dropdown to admin dashboard.<br/><br/>
+	<larecipe-badge type="success">Added</larecipe-badge> Notyf Alerts (switched from toastr).<br/><br/>
+	<larecipe-badge type="success">Added</larecipe-badge> Symlink Command. Using the auto-updater will auto create the symlink.<br/><br/>
+	<larecipe-badge type="success">Added</larecipe-badge> User Deletion.<br/><br/>
+	<larecipe-badge type="warning">Updated</larecipe-badge> Reorganized & Refactored Models.<br/><br/>
+	<larecipe-badge type="warning">Updated</larecipe-badge> Increased default Password Generator Level.<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> Language file typos.<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> Minor js bug.<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> Default avatar directory.<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> Logo Size on Authentication Pages.<br/><br/>
+	<larecipe-badge type="danger">Removed</larecipe-badge> Search bar from admin dashboard (will be adding an updated aio search for admins in the next release).
+</larecipe-card>
+
+---
 
 <a name="1.0.3"></a>
 ## Version **`1.0.3`** | 22-Dec-2020
