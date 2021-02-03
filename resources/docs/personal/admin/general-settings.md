@@ -9,6 +9,7 @@ Admin General Settings page of `LaraPass v2 Personal Version`
 - [Themes](#theme)
 - [Language / Locale](#locale)
 - [Footer Copyright](#copyright)
+- [Force HTTPS](#force-https)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/admin/general-settings.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="overview"></a>
@@ -53,7 +54,15 @@ You can also enable `Allow User Locale` which will give your users the ability t
 You can display whatever copyright text you want to. The field accepts basic HTML styling and tooling - as such you can also add links in the footer using the `<a href="">` tag.
 
 ---
+
+<a name="force-https"></a>
+## Force HTTPS
+
+You can **`Enable`** App Level HTTPS Redirection by setting the **Force HTTPS** option to **Yes**. This will redirect all unsecured http urls to secured https urls.
+
+> {warning} We highly recommend using your web servers (Apache / NGINX) config file or the .htaccess file to setup and enable force https redirection instead of using this app-level redirection.
+
+---
 <br />
 <larecipe-feedback message="Thankyou for your feedback!">
 </larecipe-feedback>  
-

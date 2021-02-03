@@ -8,12 +8,27 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 
 ---
 
+- [v1.1.2](#1.1.2)
 - [v1.1.0](#1.1.0)
 - [v1.0.3](#1.0.3)
 - [v1.0.2](#1.0.2)
 - [v1.0.1](#1.0.1)
 - [v1.0.0](#1.0.0)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/changelog.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
+
+<a name="1.1.2"></a>
+## Version **`1.1.2`** | 05-Feb-2020 (Upcoming)
+
+<larecipe-card>
+	<larecipe-badge type="success">Added</larecipe-badge> App Level HTTPS Redirection Option.<br/><br/>
+	<larecipe-badge type="success">Added</larecipe-badge> Countires & States Seeder.<br/><br/>
+	<larecipe-badge type="warning">Updated</larecipe-badge> User Profile Backend Logic.<br/><br/>
+	<larecipe-badge type="warning">Updated</larecipe-badge> Framework to the Latest Version (security update).<br/><br/>
+	<larecipe-badge type="warning">Updated</larecipe-badge> 3rd Party Vendor Packages.<br/><br/>
+	<larecipe-badge type="danger">Fixed</larecipe-badge> Minor Typos.
+</larecipe-card>
+
+---
 
 <a name="1.1.0"></a>
 ## Version **`1.1.0`** | 26-Dec-2020

@@ -96,15 +96,15 @@ return [
     */
 
     'search'            => [
-        'enabled'       => false,
+        'enabled'       => true,
         'default'       => 'algolia',
         'engines'       => [
             'internal'  => [
                 'index' => ['h2', 'h3']
             ],
             'algolia'   => [
-                'key'   => '',
-                'index' => ''
+                'key'   => '76b59d1f02f6ea1040d6ee98bd7a0fee',
+                'index' => 'larapass'
             ]
         ]
     ],
