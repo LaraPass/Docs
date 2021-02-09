@@ -17,7 +17,7 @@ All changes made in `LaraPass v2 Personal Version` releases are recorded here.
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/changelog.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
 <a name="1.1.2"></a>
-## Version **`1.1.2`** | 05-Feb-2020 (Upcoming)
+## Version **`1.1.2`** | 10-Feb-2020 (Upcoming)
 
 <larecipe-card>
 	<larecipe-badge type="success">Added</larecipe-badge> App Level HTTPS Redirection Option.<br/><br/>
