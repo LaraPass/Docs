@@ -9,6 +9,7 @@
     - [cPanel Host](/{{version}}/setup/cpanel)
 - ## Installation
     - [Installation](/{{version}}/installation/overview)
+    - [After Installing](/{{version}}/installation/after-installing)
 - ## Multi-Language
     - [Translations](https://github.com/LaraPass/Translations)
 - ## Miscellaneous
