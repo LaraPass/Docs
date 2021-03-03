@@ -1,4 +1,4 @@
-# Introduction
+# Introduction - Teams Version
 
 LaraPass v2 is a self-hosted password manager for teams.
 
