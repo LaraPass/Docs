@@ -4,6 +4,9 @@
     - [Changelog](/{{version}}/changelog)
     - [Basic Setup](/{{version}}/basic-setup)
     - [Demo Videos](/{{version}}/demo-videos)
+- ## Setup
+    - [Cloudways](/{{version}}/setup/cloudways)
+    - [cPanel Host](/{{version}}/setup/cpanel)
 - ## Multi-Language
     - [Translations](https://github.com/LaraPass/Translations)
 - ## Miscellaneous
