@@ -13,6 +13,10 @@
 - ## Admin Features
     - [Overview](/{{version}}/admin/overview)
     - [User Management](/{{version}}/admin/user-management)
+    - [Pages Manager](/{{version}}/admin/pages-manager)
+    - [General Settings](/{{version}}/admin/general-settings)
+    - [Email Settings](/{{version}}/admin/email-settings)
+    - [System Settings](/{{version}}/admin/system-settings)
 - ## Multi-Language
     - [Translations](https://github.com/LaraPass/Translations)
 - ## Miscellaneous
