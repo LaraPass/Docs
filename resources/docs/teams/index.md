@@ -12,6 +12,7 @@
     - [After Installing](/{{version}}/installation/after-installing)
 - ## Admin Features
     - [Overview](/{{version}}/admin/overview)
+    - [User Management](/{{version}}/admin/user-management)
 - ## Multi-Language
     - [Translations](https://github.com/LaraPass/Translations)
 - ## Miscellaneous
