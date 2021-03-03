@@ -18,6 +18,8 @@
     - [Email Settings](/{{version}}/admin/email-settings)
     - [System Settings](/{{version}}/admin/system-settings)
     - [Automation Settings](/{{version}}/admin/automation-settings)
+    - [LaraPass Settings](/{{version}}/admin/larapass-settings)
+    - [Modules Manager](/{{version}}/admin/modules-manager)
 - ## Multi-Language
     - [Translations](https://github.com/LaraPass/Translations)
 - ## Miscellaneous
