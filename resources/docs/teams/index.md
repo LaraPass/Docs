@@ -7,6 +7,8 @@
 - ## Setup
     - [Cloudways](/{{version}}/setup/cloudways)
     - [cPanel Host](/{{version}}/setup/cpanel)
+- ## Installation
+    - [Installation](/{{version}}/installation/overview)
 - ## Multi-Language
     - [Translations](https://github.com/LaraPass/Translations)
 - ## Miscellaneous
