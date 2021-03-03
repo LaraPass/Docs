@@ -4,3 +4,9 @@
     - [Changelog](/{{version}}/changelog)
     - [Basic Setup](/{{version}}/basic-setup)
     - [Demo Videos](/{{version}}/demo-videos)
+- ## Multi-Language
+    - [Translations](https://github.com/LaraPass/Translations)
+- ## Miscellaneous
+    - [Social Logins](/{{version}}/misc/social-logins)
+    - [Google reCaptcha](/{{version}}/misc/recaptcha)
+    - [Mailgun Setup](/{{version}}/misc/mailgun)
