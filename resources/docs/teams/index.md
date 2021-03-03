@@ -1,2 +1,6 @@
 - ## Get Started
     - [Overview](/{{version}}/overview)
+    - [Introduction](/{{version}}/introduction)
+    - [Changelog](/{{version}}/changelog)
+    - [Basic Setup](/{{version}}/basic-setup)
+    - [Demo Videos](/{{version}}/demo-videos)
