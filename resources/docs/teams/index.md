@@ -10,6 +10,8 @@
 - ## Installation
     - [Installation](/{{version}}/installation/overview)
     - [After Installing](/{{version}}/installation/after-installing)
+- ## Admin Features
+    - [Overview](/{{version}}/admin/overview)
 - ## Multi-Language
     - [Translations](https://github.com/LaraPass/Translations)
 - ## Miscellaneous
