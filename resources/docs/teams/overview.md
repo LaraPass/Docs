@@ -33,6 +33,7 @@ A Self-Hosted Password Manager for Teams.
 + Folders - Allows you to organize sites in separate folders to avoid any unnecessary confusion.
 + Receive Custom Emails for Verification, Welcome, Password Reset, New Device Login, Team Invite, etc.  
 + Create New Teams or Join any existing Teams through an Invite.
++ Quick and robust search system to search through your catelog of sites from different personal or team vaults.
 
 **`For Teams`**
 + Create separate teams and invite registered members to join your team.
