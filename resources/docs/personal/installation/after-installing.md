@@ -41,7 +41,7 @@ In order to setup cron job, navigate to the cron jobs page on your hosting panel
 /usr/local/bin/ea-php74 /path_to_larapass_directory/artisan schedule:run >/dev/null 2>&1
 ```
 <small>Replace **'path_to_larapass_directory'** with the actual path to your larapass directory on the cpanel server (refer screenshot below).</small>
-<p><img src="/screenshots/installation/cpanel-cron.png" width="250" alt="cloudways-cron"/></a></p>
+<p><img src="/screenshots/installation/cpanel-cron.png" width="250" alt="cpanel-cron"/></a></p>
 
 ---
 
@@ -50,7 +50,16 @@ In order to setup cron job, navigate to the cron jobs page on your hosting panel
 php /path_to_larapass_directory/artisan schedule:run
 ```
 <small>Replace **'path_to_larapass_directory'** with the actual path to your larapass directory on the ploi server (refer screenshot below).</small>  
-<p><img src="/screenshots/installation/ploi-cron.png" width="250" alt="cloudways-cron"/></a></p>
+<p><img src="/screenshots/installation/ploi-cron.png" width="250" alt="ploi-cron"/></a></p>
+
+---
+
+**`Cron job command on Plesk`**
+```php
+httpdocs/artisan schedule:run
+```
+Open Scheduled Tasks in Plesk > Click on Add Task > Select Task Type **Run a PHP Script** > Script Path **httpdocs/artisan** > with arguments **schedule:run** > Select your php version > Select Run Frequency (prefer every minute) > Click on **Run Now** to verify. 
+<p><img src="/screenshots/installation/plesk-cron.png" width="250" alt="plesk-cron"/></a></p>
 
 
 > {primary} If your host doesn't allow setting up cron jobs, don't worry, it doesnt effect the performace of the app, you can always run these commnds manually through the command line. More details [`here`](../admin/automation-settings)
