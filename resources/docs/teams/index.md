@@ -1,2 +1,28 @@
 - ## Get Started
     - [Overview](/{{version}}/overview)
+    - [Introduction](/{{version}}/introduction)
+    - [Changelog](/{{version}}/changelog)
+    - [Basic Setup](/{{version}}/basic-setup)
+    - [Demo Videos](/{{version}}/demo-videos)
+- ## Setup
+    - [Cloudways](/{{version}}/setup/cloudways)
+    - [cPanel Host](/{{version}}/setup/cpanel)
+- ## Installation
+    - [Installation](/{{version}}/installation/overview)
+    - [After Installing](/{{version}}/installation/after-installing)
+- ## Admin Features
+    - [Overview](/{{version}}/admin/overview)
+    - [User Management](/{{version}}/admin/user-management)
+    - [Pages Manager](/{{version}}/admin/pages-manager)
+    - [General Settings](/{{version}}/admin/general-settings)
+    - [Email Settings](/{{version}}/admin/email-settings)
+    - [System Settings](/{{version}}/admin/system-settings)
+    - [Automation Settings](/{{version}}/admin/automation-settings)
+    - [LaraPass Settings](/{{version}}/admin/larapass-settings)
+    - [Modules Manager](/{{version}}/admin/modules-manager)
+- ## Multi-Language
+    - [Translations](https://github.com/LaraPass/Translations)
+- ## Miscellaneous
+    - [Social Logins](/{{version}}/misc/social-logins)
+    - [Google reCaptcha](/{{version}}/misc/recaptcha)
+    - [Mailgun Setup](/{{version}}/misc/mailgun)
