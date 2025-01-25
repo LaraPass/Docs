@@ -12,12 +12,12 @@ LaraPass v2 Setup Guide for Cloudways.
 - [Watch Demo Video](#video)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/setup/cloudways.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
-<a href="https://refs.spargon.tech/cloudways" target="_blank"><img src="//www.cloudways.com/affiliate/accounts/default1/banners/61dde566.jpg" alt="The Ultimate Managed Hosting Platform" title="The Ultimate Managed Hosting Platform" width="728" height="90" /></a><img style="border:0" src="https://www.cloudways.com/affiliate/scripts/imp.php?id=94888&amp;a_bid=61dde566" width="1" height="1" alt="" />
+<a href="https://refs.spargon.net/cloudways" target="_blank"><img src="//www.cloudways.com/affiliate/accounts/default1/banners/61dde566.jpg" alt="The Ultimate Managed Hosting Platform" title="The Ultimate Managed Hosting Platform" width="728" height="90" /></a><img style="border:0" src="https://www.cloudways.com/affiliate/scripts/imp.php?id=94888&amp;a_bid=61dde566" width="1" height="1" alt="" />
 
 <a name="sign-up"></a>
 ## Sign Up
 
-If you don't already have one, then sign-up for a free Cloudways account by clicking <a href="https://refs.spargon.tech/cloudways" target="_blank">`here.`</a>
+If you don't already have one, then sign-up for a free Cloudways account by clicking <a href="https://refs.spargon.net/cloudways" target="_blank">`here.`</a>
 
 ---
 

@@ -11,12 +11,12 @@ LaraPass v2 Setup Guide for a cPanel Powered Host.
 - [Watch Demo Video](#video)
 - [<a href="https://github.com/larapass/docs/edit/master/resources/docs/personal/setup/cpanel.md" target="_blank"><i class="fa fa-edit"></i> Help us improve this page!</a>](#)
 
-<a href="https://refs.spargon.tech/a2-hosting" target="_blank"><img src="/brands/a2hosting-ad.jpg" /></a>
+<a href="https://refs.spargon.net/a2-hosting" target="_blank"><img src="/brands/a2hosting-ad.jpg" /></a>
 
 <a name="sign-up"></a>
 ## Sign Up
 
-If you don't already have one, you can sign-up for a cheaper cPanel Shared Hosting from <a href="https://refs.spargon.tech/a2-hosting" target="_blank">**`A2Hosting`**</a>
+If you don't already have one, you can sign-up for a cheaper cPanel Shared Hosting from <a href="https://refs.spargon.net/a2-hosting" target="_blank">**`A2Hosting`**</a>
 
 > {info} LaraPass v2 will work perfectly on a Shared Hosting server, however if your hosting, provider has certain limitations on permissions or forces public_html directory for all, then the Auto-Updater may not be able to perform, as such, we recommend using a VPS instead of Shared Hosting.
 

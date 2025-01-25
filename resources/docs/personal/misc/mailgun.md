@@ -15,7 +15,7 @@ Setting Up Mailgun to work with your LaraPass installation
 <a name="sign-up"></a>
 ## Sign Up
 
-Go to [**`www.mailgun.com`**](https://refs.spargon.tech/mailgun) and SignUp for a Free Account.
+Go to [**`www.mailgun.com`**](https://refs.spargon.net/mailgun) and SignUp for a Free Account.
 
 
 > {primary} Mailgun Offers **`5,000 Emails/month`** for Free per month for 3 months. 

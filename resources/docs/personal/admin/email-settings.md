@@ -25,10 +25,10 @@ You can update your mailer for sending notifications and update emails from here
 We recommend the following mailing services as best for sending transactional emails. However, you are free to use any 3rd-Party service that allows outgoing SMTP services (ex: Gmail, etc).
 
 <p float="left">
-  <a href="https://refs.spargon.tech/mailgun"><img src="/brands/mg_logo.png" width="180" alt="mailgun"/></a> &nbsp;
-  <a href="https://refs.spargon.tech/elastic-email"><img src="/brands/ee_logo.png" width="180" alt="elastic-email"/></a> &nbsp;
-  <a href="https://refs.spargon.tech/send-grid"><img src="/brands/sg_logo.png" width="180" alt="send-grind"/></a> &nbsp;
-  <a href="https://refs.spargon.tech/send-in-blue"><img src="/brands/sib_logo.png" width="180" alt="send-in-blue"/></a>
+  <a href="https://refs.spargon.net/mailgun"><img src="/brands/mg_logo.png" width="180" alt="mailgun"/></a> &nbsp;
+  <a href="https://refs.spargon.net/elastic-email"><img src="/brands/ee_logo.png" width="180" alt="elastic-email"/></a> &nbsp;
+  <a href="https://refs.spargon.net/send-grid"><img src="/brands/sg_logo.png" width="180" alt="send-grind"/></a> &nbsp;
+  <a href="https://refs.spargon.net/send-in-blue"><img src="/brands/sib_logo.png" width="180" alt="send-in-blue"/></a>
 </p>
 ---
 
